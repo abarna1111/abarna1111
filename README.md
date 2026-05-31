@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Abarna 👋
 
-<!--
-**abarna1111/abarna1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Aspiring Data Analyst with an interest in Healthcare Analytics and Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- SQL
+- Python
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Featured Projects
+
+- Breast Cancer Prediction
+- IBM Stock Price Prediction
+- Product Demand Prediction using Machine Learning
+
+## Currently Learning
+
+- Advanced SQL
+- Power BI Dashboard Development
+- Healthcare Analytics
+
+## Career Goal
+
+To build data-driven solutions and transform raw data into meaningful insights for decision-making.
+
+## Connect With Me
+
+- LinkedIn: Add your LinkedIn URL
+- GitHub: github.com/abarna1111
+
