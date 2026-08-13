@@ -51,5 +51,5 @@ To build a career in Data Analytics by transforming raw data into actionable ins
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/abarna-muniyakkannan-9115a2314
+- LinkedIn: https://www.linkedin.com/in/abarna-muniyakannan/
 - GitHub: https://github.com/abarna1111
